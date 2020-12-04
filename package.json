@@ -1,5 +1,5 @@
 {
-  "name": "antd-demo",
+  "name": "actions-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
+  "homepage": "https://name-hard.github.io/actions-demo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
